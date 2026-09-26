@@ -1,0 +1,24 @@
+# Altium history and previews
+**/History/
+**/__Previews/
+*.PcbDocPreview
+*.SchDocPreview
+
+# Altium temporary and local files
+*.Lck
+*.DsnWrk
+*.DsnWrkStructure
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.PrjMbdStructure
+*.log
+*.tmp
+*.bak
+
+# Automatically generated project output
+**/Project Logs for */
+**/Project Outputs for */
+
+# Windows
+Thumbs.db
+desktop.ini
